@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 PM&J Participações, Ltd
+Copyright (c) 1993-2020 @JCPJ Business Intelligence
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
